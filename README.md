@@ -6,8 +6,8 @@ Projects:
 
 Plant - NUACM Hackathon Winner - Education Track
 - Comprehensive Next.js web application for Northeastern student course planning with AI chatbot/recommendations
-- Python web-scraping from course catalog to create course and major requirement tracking; 1000+ courses and 100+ majors
 - Built with React 19, Typescript, Firebase Authentication, Gemini Integration
+- Contribution: Python web-scraping from course catalog; data for 100+ majors in JSON file
 
 NU AI Club Machine Learning Bootcamp
 -  Implemented linear regression using both gradient descent and closed-form OLS solution on Spotify track data to predict danceability from audio features
@@ -18,6 +18,7 @@ NU AI Club Machine Learning Bootcamp
 Elevator Simulation
 - JavaFX GUI elevator simulation with MVC and Finite State Machines
 - Given large datasets of people, tested elevator efficiency and simulated them
+- Contribution: GUI and Controller
 
 --------------------------------------------
 
