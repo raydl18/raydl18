@@ -2,7 +2,20 @@ My name is Raymond -- Freshman CS Student at Northeastern
 
 --------------------------------------------
 
-Projects:
+Current Projects:
+
+Dragonboat Seating App:
+- Java Spring Boot MVC localhost application to register and store paddler data
+- Interactive website depicting the boat layout w/ Java, HTML, CSS, Javascript
+- Test and integrate into local San Francisco-based dragonboat team's website
+- CSV import and export for paddler data
+
+RefClock Mobile App
+- Built a progressive web app with HTML/CSS/JavaScript, deployed on Android/Google Play Store
+- Soccer referee timer/scorekeeper that logs live game data (goals, cards, player numbers)
+- Self-promoted the app to adoption by Northeastern Intramural Soccer officials
+
+Past Projects:
 
 Plant - NUACM Hackathon Winner - Education Track
 - Comprehensive Next.js web application for Northeastern student course planning with AI chatbot/recommendations
@@ -15,6 +28,11 @@ NU AI Club Machine Learning Bootcamp
 - Implemented K-means clustering from scratch with multiple random initializations
 - Multi-Layer Perceptron (MLP) Neural Network – Designed and trained a binary classifier from scratch
 
+NU AI Club Hackathon
+- Built a full-stack evacuation simulation using React/TypeScript/Leaflet and Spring Boot, featuring real-time agent streaming via WebSockets, OpenStreetMap road network data, and Gemini API-powered traffic analysis
+- Interactive UI: Select custom area, emergency type(ex. flood), people in the area, roadblocks/traffic signal failures
+- Displays key congestion sites to advise improved evacuation routing and city planning
+
 Elevator Simulation
 - JavaFX GUI elevator simulation with MVC and Finite State Machines
 - Given large datasets of people, tested elevator efficiency and simulated them
@@ -22,9 +40,3 @@ Elevator Simulation
 
 --------------------------------------------
 
-Current Projects:
-
-Dragonboat Seating App:
-- Java Spring Boot MVC localhost application to register and store paddler data
-- Interactive website depicting the boat layout w/ HTML, CSS, Javascript
-- Plan to test and integrate into local San Francisco-based dragonboat team's website
