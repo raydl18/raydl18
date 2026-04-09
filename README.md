@@ -1,4 +1,4 @@
-My name is Raymond -- Freshman CS Student at Northeastern
+Hi, I'm Raymond -- 1st Year CS Student at Northeastern
 
 --------------------------------------------
 
