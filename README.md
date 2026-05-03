@@ -1,4 +1,4 @@
-Hi, I'm Raymond -- 1st Year CS Student at Northeastern
+Hi, my name is Raymond and I'm looking for my first internship or co-op in SWE, AI/ML, or DS.
 
 --------------------------------------------
 
