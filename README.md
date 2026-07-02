@@ -1,4 +1,4 @@
-Hi, my name is Raymond and I'm looking for my first internship or co-op in SWE, AI/ML, or DS.
+Hi, my name is Raymond and I'm looking for work experience in SWE, AI/ML.
 
 --------------------------------------------
 
