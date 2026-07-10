@@ -10,7 +10,7 @@ Kelly Liu Advisory: kellyliuadvisory.com
 ACT Acupuncture Clinic Website
 - Building a fast, SEO-friendly marketing website for a local acupuncture clinic, practicing SCRUM methodologies with the business owner
 
-RefClock Mobile App
+RefClock Mobile App: https://play.google.com/store/apps/details?id=io.github.raydl18.twa&hl=en_US
 - Published a live app on the Google Play Store, made with HTML/CSS/JavaScript and Supabase backend for auth and persistence
 - Soccer referee timer/scorekeeper that logs live game data (goals, cards, player numbers) promoted for use by Northeastern Intramural Soccer Officials
 
