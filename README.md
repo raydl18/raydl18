@@ -4,7 +4,7 @@ Hi, my name is Raymond, and I'm looking to learn and build work experience in SW
 
 Projects:
 
-Kelly Liu Advisory: kellyliuadvisory.com
+Kelly Liu Advisory: https://kellyliuadvisory.com/
 - Built and deployed a responsive marketing/business site for a growth marketing advisor specializing in B2B SaaS companies
 
 ACT Acupuncture Clinic Website
