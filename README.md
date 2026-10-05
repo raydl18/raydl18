@@ -3,16 +3,12 @@ Hi, my name is Raymond, and I'm looking to learn and build work experience in SW
 --------------------------------------------
 
 Projects:
-
-Kelly Liu Advisory: https://kellyliuadvisory.com/
-- Built and deployed a responsive marketing/business site for a growth marketing advisor specializing in B2B SaaS companies
-
-ACT Acupuncture Clinic Website
-- Building a fast, SEO-friendly marketing website for a local acupuncture clinic, practicing SCRUM methodologies with the business owner
-
 RefClock Mobile App: https://play.google.com/store/apps/details?id=io.github.raydl18.twa&hl=en_US
 - Published a live app on the Google Play Store, made with HTML/CSS/JavaScript and Supabase backend for auth and persistence
 - Soccer referee timer/scorekeeper that logs live game data (goals, cards, player numbers) promoted for use by Northeastern Intramural Soccer Officials
+
+Kelly Liu Advisory: https://kellyliuadvisory.com/
+- Built and deployed a responsive marketing/business site for a growth marketing advisor specializing in B2B SaaS companies
 
 Chapters - Oasis Club Project
 - Built a fully deployed book-tracking platform for the Oasis Club project series that encourages daily reading habits with search, trending books, recommendations, user profiles with stats, and a social features.
