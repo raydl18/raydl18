@@ -1,4 +1,4 @@
-Hi, my name is Raymond, and I'm looking to learn and build work experience in SWE and AI/ML. Here is some of my best work. Feel free to take a look.
+Hi, my name is Raymond, and I'm looking to learn and build work experience in SWE and AI/ML. Here is some of my best work. For more info, see my website! https://www.raymondliu.me/
 
 --------------------------------------------
 
